@@ -31,10 +31,10 @@
   },
   "peerDependencies": {
     "react": ">=16",
-    "oidc-client": "^1.11.5"
+    "oidc-client": "git://github.com/maharjanraj/oidc-client-js#implicit-flow"
   },
   "dependencies": {
-    "oidc-client": "^1.11.5"
+    "oidc-client": "git://github.com/maharjanraj/oidc-client-js#implicit-flow"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.5.0",
